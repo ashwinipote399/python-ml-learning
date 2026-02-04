@@ -1,0 +1,11 @@
+print(" ____")
+print("|    |")
+print("|    |")
+print("|    |")
+print("|____|")
+
+
+print(". .")
+print(" .")
+
+
