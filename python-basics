@@ -1,0 +1,12 @@
+# String basics  
+
+name = "Ashwini"
+
+# Print original string
+print(name)
+
+# Reverse string
+print(name[::-1])
+
+# Length of string
+print(len(name))
