@@ -1,0 +1,33 @@
+#Machine Learning Basics
+What I Learned Today
+
+Today I learned what Machine Learning is.
+Machine Learning is a way for computers to learn from data and make predictions or decisions without being explicitly programmed.
+
+Simple Definition
+Machine Learning means: Teaching a computer using data so it can learn and improve by itself.
+
+Real-Life Examples
+1. YouTube recommending videos
+2. Email spam detection
+3. Predicting exam results
+4. Weather prediction
+
+Types of Machine Learning
+1. Supervised Learning: Data has input and output
+Example: Predicting marks, house price
+
+2. Unsupervised Learning :Data has no output
+Example: Grouping similar customers
+
+3. Reinforcement Learning: Learning using reward and punishment
+Example: Games, robots
+
+Basic ML Steps
+--->Collect data
+--->Prepare data
+--->Train the algorithm
+--->Evaluate it
+--->If it is good 
+--->launch it 
+--->Else , analyze the error
